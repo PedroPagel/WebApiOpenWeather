@@ -2,10 +2,10 @@
 
 Será necessário acessar a pasta do projeto para executar a api
 Quando for acessada, devará ser feito o build:
->>> dotnet build
+> dotnet build
 
 Após o build executar o comando com oos paramêtros:
->>> dotnet run --project WebApiWeatherMap 01/11/2020, 03/11/2020, "Sao Paulo"
+> dotnet run --project WebApiWeatherMap 01/11/2020, 03/11/2020, "Sao Paulo"
 
 O resultado pode ser acessado pelo local host do powershell/cmd
 
