@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApiSwagger</name>
+    </assembly>
+    <members>
+        <member name="M:WebApiSwagger.Controllers.OpenWeatherController.Get(System.String,System.Nullable{System.DateTime},System.Nullable{System.DateTime})">
+            <summary>
+            Retorna a temperatura de uma cidade
+            dentro de um período de data(s) (formato americano).
+            </summary>
+            <param name="city">Cidade</param>
+            <param initialDate="initialDate">Data inicial</param>
+            <param finalDate="finalDate">Data final</param>
+            <returns>Objeto contendo valores de temperatura
+            das cidade.</returns>
+        </member>
+    </members>
+</doc>
